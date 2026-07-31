@@ -174,11 +174,21 @@
       "filterable": 1
     }
   ],
+
+  
   "lives": [
     {
       "name": "Cx4x",
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/Cx4x/xdd/blob/master/output/ipv4/result.txt ",
+      "playerType": 2,
+      "timeout": 10
+    },
+
+    {
+      "name": "kakaxi",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/ipv4.txt ",
       "playerType": 2,
       "timeout": 10
     },
