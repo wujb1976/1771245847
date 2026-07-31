@@ -2,8 +2,7 @@
 {
   "spider": "https://gh-proxy.com/https://github.com/ne7359/tvurl/blob/main/jar/spider.jar",
    "logo": "http://q2.qlogo.cn/headimg_dl?dst_uin=1771245847&spec=100",   
-   "warningText": "温馨提示: 本接口由【残月影视】维护, 请勿用于任何商业用途，仅供学习交流 ",
-   "homepage": "https://1771245847.github.io/tvbox/",
+     
    "sites": [
     {
       "key": "豆瓣",
@@ -176,7 +175,14 @@
   ],
   "lives": [
     {
-      "name": "TvLive",
+      "name": "kakaxi",
+      "type": 0,
+      "url": "https://gh-proxy.com/ https://github.com/kakaxi-1/IPTV/blob/main/ipv4.txt ",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "gongdian",
       "type": 0,
       "url": "https://gongdian.top/tv/iptv  ",
       "playerType": 2,
