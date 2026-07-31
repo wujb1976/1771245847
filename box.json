@@ -2,7 +2,8 @@
 {
   "spider": "https://gh-proxy.com/https://github.com/ne7359/tvurl/blob/main/jar/spider.jar",
    "logo": "http://q2.qlogo.cn/headimg_dl?dst_uin=1771245847&spec=100",   
-     
+     "warningText": "温馨提示: 本接口由【残月影视】维护, 请勿用于任何商业用途，仅供学习交流 ",
+   "homepage": "https://1771245847.github.io/tvbox/",
    "sites": [
     {
       "key": "豆瓣",
